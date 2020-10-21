@@ -1,0 +1,21 @@
+Disease,Family,Type,Death Toll
+Antonine Plague,Poxviridae,Virus,5000000
+Japanese smallpox epidemic,Poxviridae,Virus,1000000
+Plague of Justinian,Enterobacteriaceae,Bacteria,50000000
+Black Death,Enterobacteriaceae,Bacteria,100000000
+New World Smallpox outbreak,Poxviridae,Virus,56000000
+Great Plague of London,Enterobacteriaceae,Bacteria,100000
+Italian Plague,Enterobacteriaceae,Bacteria,1000000
+Cholera Pandemics 1-6,Vibrionaceae,Bacteria,1000000
+Third Plague,Enterobacteriaceae,Bacteria,13500000
+Yellow Fever,Flaviviridae,Virus,150000
+Russian Flu,Orthomyxoviridae,Virus,1000000
+Spanish Flu,Orthomyxoviridae,Virus,50000000
+Asian Flu,Orthomyxoviridae,Virus,1100000
+Hong Kong Flu,Orthomyxoviridae,Virus,100000
+HIV/AIDS,Retroviridae,Virus,35000000
+Swine Flu,Orthomyxoviridae,Virus,200000
+SARS,Coronaviridae,Virus,770
+Ebola,Filoviridae,Virus,11000
+MERS,Coronaviridae,Virus,850
+COVID-19,Coronaviridae,Virus,1000000

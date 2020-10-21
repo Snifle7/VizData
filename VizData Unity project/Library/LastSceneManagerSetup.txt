@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Examples/02 GL Shapes/2.4 TranslationRotationScaleExample.unity
+- path: Assets/Examples/Pandemic Data/Pandemic.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
